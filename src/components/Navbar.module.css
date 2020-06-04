@@ -1,0 +1,17 @@
+.wrapper {
+    background-color: #ffcbb8;
+    grid-area: navbar;
+}
+
+.messages {
+    text-decoration: none;
+  font-weight: bold;
+}
+
+.activeLink {
+    color: #fffed1;
+}
+
+.active {
+    color: white;
+}

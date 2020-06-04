@@ -1,0 +1,17 @@
+.wrapper {
+    background-color: #fdb8ff;
+    grid-area: header;
+}
+
+.img {
+    height: 60px;
+    border-radius: 50%;
+}
+
+.loginBlock {
+    float: right;
+}
+
+.loginBlock a {
+    color: white;
+}

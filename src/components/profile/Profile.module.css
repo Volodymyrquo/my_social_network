@@ -1,0 +1,10 @@
+.wrapper {
+    background-color: #d1ffdd;
+    grid-area: profile;
+}
+
+.img {
+    width: 100%;
+    height: 300px;
+
+}

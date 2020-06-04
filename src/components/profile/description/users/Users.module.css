@@ -1,0 +1,12 @@
+
+.cursor {
+    cursor: pointer;
+    padding: 5px;
+}
+.style {
+    font-weight: bold;
+}
+
+.userImg {
+    height: 100px;
+}
